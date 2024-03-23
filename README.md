@@ -1,4 +1,4 @@
-# 🍑🔌 List of Awesome SFW Buttplug Projects! 🍑🔌
+# 🍑🔌 List of SFW Buttplug Projects! 🍑🔌
 
 This is a list of different projects that use Buttplug in some way and are not inherently NSFW!
 
@@ -301,16 +301,16 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Free, open source, repos at [https://github.com/Thryrallo/VRBrations---App](https://github.com/Thryrallo/VRBrations---App) and [https://github.com/Thryrallo/VRbrations---Unity](https://github.com/Thryrallo/VRbrations---Unity)
   - Windows 10+ only
   - Support Discord at [https://vrbrations.com](https://vrbrations.com)
-  - Allows toy control from VRChat via either Buttplug or the Lovense Connect app, with OSC or shader based interaction capabilities.
+  - Allows toy control from VRChat via Buttplug, with OSC or shader based interaction capabilities.
 - [OSCGoesBrrr](https://osc.toys/)
   - Free, open source, repo at https://github.com/OscToys/OscGoesBrrr
   - Windows 10+ only for releases, app is electron and can be compiled for Linux
   - Support Discord at https://osc.toys/discord
-  - VRC support via OSC for Buttplug or Lovense Connect, w/ Poiyomi TPS compatibility
+  - VRC support via OSC for Buttplug, w/ Poiyomi TPS compatibility
 - [VRCLovenseConnect](https://github.com/PingerSurprise/VrcLovenseConnect)
   - Free, open source, repo at https://github.com/PingerSurprise/VrcLovenseConnect
   - Windows 10+ only
-  - VRC support via OSC for Buttplug or Lovense Connect
+  - VRC support via OSC for Buttplug
 - [VibeCheck](https://github.com/SutekhVRC/VibeCheck)
   - Free, open source, repo at https://github.com/SutekhVRC/VibeCheck
   - Windows 10+ only
