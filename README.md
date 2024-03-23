@@ -64,7 +64,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [Vibe Sequencer](https://webvrnsfw.github.io/vibe-sequencer/)
   - Free, open source, repo at https://github.com/webvrnsfw/vibe-sequencer
   - Web based (Cross platform, via browsers with [Intiface Central](https://intiface.com/central))
-  - Lets you control your Buttplug sex toys with an interactive sequencer interface.
+  - Lets you control your Buttplug toys with an interactive sequencer interface.
 - [Buttplug OSC](https://github.com/AlexanderPavlenko/buttplug-osc)
   - Free, open source, repo at https://github.com/AlexanderPavlenko/buttplug-osc
   - Cross Platform (requires [Intiface Central](https://intiface.com/central))
@@ -89,10 +89,6 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Free, open source, repo at https://github.com/ThatBatLuna/Beadi  
   - Web based (Cross platform, either via browsers or [Intiface Central](https://intiface.com/central))
   - Visual node-based editor for programming Buttplug-compatible toys
-- [Ahegao Detector](https://ahegao-detector.netlify.app/)
-  - Free, open source, repo at https://github.com/Sir-Prise/ahegao-detector
-  - Web based (Cross platform, either via browsers or [Intiface Central](https://intiface.com/central))
-  - Facial recognition of Ahegao expressions for controlling toys
 - [PROHE](https://marketplace.visualstudio.com/items?itemName=UncensorPat.prohe)
   - Free, open source, repo at https://github.com/UncensorPat/prohe
   - Cross platform (VS Code, requires [Intiface Central](https://intiface.com/central))
@@ -155,7 +151,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [Intiface® Game Haptics Router](https://intiface.com/ghr)
   - Free, open source, repo at https://github.com/intiface/intiface-game-haptics-router
   - Windows 10+ only (Standalone or via [Intiface Central](https://intiface.com/central))
-  - Hooks to Windows PC Games, rerouting gamepad rumble to control sex toys.
+  - Hooks to Windows PC Games, rerouting gamepad rumble to control toys.
 - [BPGE (ButtPlug Game Events)](https://github.com/allanf181/BPGE)
   - Free, source avaliable, repo at https://github.com/allanf181/BPGE
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central) and [HomeAssistant Game Events](https://www.overwolf.com/app/BinaryBurger-HomeAssistant_Game_Events))
@@ -269,7 +265,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [Minegasm (Minecraft)](https://minegasm.therainbowville.com/)
   - Free, open source, repo at https://github.com/RainbowVille/minegasm
   - Cross Platform (requires [Intiface Central](https://intiface.com/central))
-  - Sex toy control plugin for Minecraft Forge
+  - Toy control plugin for Minecraft Forge
   - [Ported to Fabric](https://github.com/vinceh121/Minegasm-fabric)
 - [mInetiface (Minecraft)](https://github.com/Fyustorm/mInetiface)
   - Another Minecraft Fabric mod with reward score system, ingame configuration and multiple devices
@@ -282,7 +278,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [FFXIV Vibe Plugin](https://github.com/kaciexx/FFXIV_Vibe_Plugin)
   - Closed source, free, requires paid subscription for some features
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
-  - FFXIV triggers for sex toy control, via [Dalamud](https://github.com/goatcorp/Dalamud)
+  - FFXIV triggers for toy control, via [Dalamud](https://github.com/goatcorp/Dalamud)
 - [AetherSense Redux (Beta)](https://github.com/digital-pet/AetherSenseRedux)
   - Free, open source, repo at https://github.com/digital-pet/AetherSenseRedux
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
@@ -305,7 +301,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Free, open source, repos at [https://github.com/Thryrallo/VRBrations---App](https://github.com/Thryrallo/VRBrations---App) and [https://github.com/Thryrallo/VRbrations---Unity](https://github.com/Thryrallo/VRbrations---Unity)
   - Windows 10+ only
   - Support Discord at [https://vrbrations.com](https://vrbrations.com)
-  - Allows sex toy control from VRChat via either Buttplug or the Lovense Connect app, with OSC or shader based interaction capabilities.
+  - Allows toy control from VRChat via either Buttplug or the Lovense Connect app, with OSC or shader based interaction capabilities.
 - [OSCGoesBrrr](https://osc.toys/)
   - Free, open source, repo at https://github.com/OscToys/OscGoesBrrr
   - Windows 10+ only for releases, app is electron and can be compiled for Linux
@@ -453,7 +449,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Buttplug JS/WASM integration with React
 - [Buttplug Tampermonkey](https://github.com/buttplugio/buttplug-tampermonkey)
   - Integration of Buttplug with the [Tampermonkey](https://www.tampermonkey.net/) user scripting
-    system for Web Browsers. Allows integration of sex toys with arbitrary webpages.
+    system for Web Browsers. Allows integration of toys with arbitrary webpages.
 
 ## DIY Hardware Projects
 
@@ -467,7 +463,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 
 - [In Heat Overwatch Mod](https://github.com/Furimanejo/In-Heat)
   - Free, open source, repo at https://github.com/Furimanejo/In-Heat
-  - Uses computer vision to track Heat Bar in Overwatch and control sex toys based on levels.
+  - Uses computer vision to track Heat Bar in Overwatch and control toys based on levels.
   - Deprecation Reason: Overwatch servers shut down in late 2022. Dev has a new version for Overwatch 2, [Underwatch](https://github.com/Furimanejo/Underwatch).
 - [Healing Is Fun Overwatch Plugin](https://github.com/Sir-Prise/healsluts)
   - Free, open source, repo at https://github.com/Sir-Prise/healsluts
@@ -476,17 +472,17 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [Aethersense (FFXIV)](https://github.com/Ms-Tress/AetherSense)
   - Free, open source, repo at https://github.com/Ms-Tress/AetherSense
   - Windows 10+ only (Standalone)
-  - FFXIV triggers for sex toy control, via [Dalamud](https://github.com/goatcorp/Dalamud)
+  - FFXIV triggers for toy control, via [Dalamud](https://github.com/goatcorp/Dalamud)
   - Deprecation Reason: Dev moved on
 - [Plug Parser (FFXIV)](https://github.com/cyan-f/Plug_Parser)
   - Free, open source, repo at https://github.com/cyan-f/Plug_Parser
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
-  - FFXIV triggers for sex toy control, via [ACT](https://advancedcombattracker.com/)
+  - FFXIV triggers for toy control, via [ACT](https://advancedcombattracker.com/)
   - Deprecation Reason: Dev moved on
 - [ButtPlACT (FFXIV)](https://github.com/crnlskn/ButtplACT)
   - Free, open source, repo at https://github.com/crnlskn/ButtplACT
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
-  - FFXIV triggers for sex toy control, via [ACT](https://advancedcombattracker.com/)
+  - FFXIV triggers for toy control, via [ACT](https://advancedcombattracker.com/)
   - Deprecation Reason: Dev moved on
 - [Syncydink](https://syncydink.buttplug.world)
   - Free, open source, repo at https://github.com/qdot/syncydink
@@ -516,12 +512,12 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [SoundSync](https://gitlab.com/LuckySkebe/soundsync)
   - Free, open source, repo at https://gitlab.com/LuckySkebe/soundsync
   - Windows 10+ only
-  - Visual dataflow setup for routing audio signals to sex toy control
+  - Visual dataflow setup for routing audio signals to toy control
   - Deprecation Reason: Project Abandoned
 - [Sensitive EQ](https://github.com/highfiiv/sensitive-eq)
   - Free, open source, repo at https://github.com/highfiiv/sensitive-eq
   - Web based (Cross platform via browsers)
-  - WebAudio equalizer to sex toy control utility
+  - WebAudio equalizer to toy control utility
   - Deprecation Reason: Project Abandoned
 - [OsuToy](https://github.com/hornyyy/Osu-Toy)
   - Free, open source, repo at https://github.com/hornyyy/Osu-Toy
