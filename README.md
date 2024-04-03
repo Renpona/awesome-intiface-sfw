@@ -1,8 +1,8 @@
 # 🍑🔌 List of SFW Buttplug Projects! 🍑🔌
 
-This is a list of different projects that use Buttplug in some way and are not inherently NSFW!
+This is a list of different projects that use Intiface in some way and are not inherently NSFW!
 
-Want to request for a game or app you'd like Buttplug support in? [Reply to this thread on our forum or contact qDot directly!](https://discuss.buttplug.io/t/buttplug-io-apps-games-support-request-list/228) (Instructions for direct contact are in post.)
+Want to request for a game or app you'd like Intiface support in? [Reply to this thread on our forum or contact qDot directly!](https://discuss.buttplug.io/t/buttplug-io-apps-games-support-request-list/228) (Instructions for direct contact are in post.)
 
 Have a finished (or even work in progress but generally working) project you'd like to see on this
 list? [Submit an issue to this repo and let us know!](https://github.com/buttplugio/awesome-buttplug/issues)
