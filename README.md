@@ -1,4 +1,4 @@
-# 🍑🔌 List of SFW Buttplug Projects! 🍑🔌
+# 🍑🔌 List of SFW Intiface Projects! 🍑🔌
 
 This is a list of different projects that use Intiface in some way and are not inherently NSFW!
 
