@@ -21,6 +21,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   * [Risk of Rain 2](#risk-of-rain-2)
   * [Minecraft](#minecraft)
   * [FFXIV](#ffxiv)
+  * [Terraria](#terraria)
 * [Virtual Worlds (General)](#virtual-worlds)
   * [VRChat](#vrchat)
   * [ChilloutVR](#chilloutvr)
@@ -94,7 +95,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Cross platform (web)
   - WebRTC P2P based toy sharing and controller application that's installable as a PWA for offline use.
 - [Beadi](https://thatbatluna.github.io/Beadi/)
-  - Free, open source, repo at https://github.com/ThatBatLuna/Beadi  
+  - Free, open source, repo at https://github.com/ThatBatLuna/Beadi
   - Web based (Cross platform, either via browsers or [Intiface Central](https://intiface.com/central))
   - Visual node-based editor for programming Buttplug-compatible toys
 - [Ahegao Detector](https://ahegao-detector.netlify.app/)
@@ -291,10 +292,6 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Free, open source, repo at https://github.com/MinLL/GameInterfaceForToys
   - Windows 10+ only
   - Buttplug integration for Skyrim and Fallout 4
-- [Terragasm (Terraria)](https://github.com/nih0n/terragasm)
-  - Free, open source, repo at https://github.com/nih0n/terragasm
-  - Cross Platform (requires [Intiface Central](https://intiface.com/central))
-  - Buttplug integration for Terraria
 - [Lethal Vibrations (Lethal Company)](https://thunderstore.io/c/lethal-company/p/LethalPlugging/LethalVibrations/)
   - Free, open source, repo at https://github.com/bananasov/LethalVibrations
   - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
@@ -336,7 +333,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Windows 10+ only, requires [Intiface Central](https://intiface.com/central) and [Melonloader](https://github.com/LavaGang/MelonLoader/releases)
   - Buttplug integration for DeppartPrototype mod, vibrate when gun shot, battling, and some situation.
 
-### Counter-Strike  
+### Counter-Strike
 
 - [Crotch-Stim: Get Off (CS:GO)](https://sr.ht/~hornycactus/CrotchStimGetOff/)
   - Free, open source, repo at https://sr.ht/~hornycactus/CrotchStimGetOff/
@@ -397,6 +394,16 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Free, open source, repo at https://github.com/digital-pet/AetherSenseRedux
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
   - Realtime chat and combat log parsing, via [Dalamud](https://github.com/goatcorp/Dalamud)
+
+### Terraria
+- [Viberaria](https://github.com/notasuka/Viberaria)
+  - Free, open source, repo at https://github.com/notasuka/Viberaria
+  - Cross Platform (requires [Intiface Central](https://intiface.com/central))
+  - In game configuration, plenty of features to make your gameplay a lot more challenging
+- [Terragasm](https://github.com/nih0n/terragasm)
+  - Free, open source, repo at https://github.com/nih0n/terragasm
+  - Cross Platform (requires [Intiface Central](https://intiface.com/central))
+  - Buttplug integration for Terraria
 
 ## Virtual Worlds
 
@@ -627,7 +634,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Standalone Python client library for connecting to [Intiface
     Central](https://intiface.com/central) or [Intiface
     Engine](https://github.com/intiface/intiface-engine)
-  - Deprecation Reason: Core team ran out of time to support 
+  - Deprecation Reason: Core team ran out of time to support
 - [Buttplug Of Legends (League of Legends)](https://github.com/kinkyacedev/buttplug-of-legends)
   - Free, open source, repo at https://github.com/kinkyacedev/buttplug-of-legends
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
@@ -657,7 +664,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Fork of the [Osu rhythm game](https://osu.ppy.sh/home) with toy control capabilities via
     Buttplug.
   - Deprecation Reason: Project abandoned, and requires an extremely old fork of Osu. Needs an update.
-  
+
 ## Friends of Buttplug
 
 - [TempestVR's OSR2/SR6](https://patreon.com/tempestvr)
