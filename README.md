@@ -332,6 +332,10 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Free, open source, repo at https://github.com/Ljzd-PRO/DeppartPrototypeHentaiPlayMod
   - Windows 10+ only, requires [Intiface Central](https://intiface.com/central) and [Melonloader](https://github.com/LavaGang/MelonLoader/releases)
   - Buttplug integration for DeppartPrototype mod, vibrate when gun shot, battling, and some situation.
+- [OpenPlanet Haptics](https://gitlab.com/fentrasLABS/openplanet/haptics)
+  - Free, open source, repo at https://gitlab.com/fentrasLABS/openplanet/haptics
+  - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
+  - Buttplug integration for Trackmania 2020, Planet, and Turbo
 
 ### Counter-Strike
 
