@@ -212,6 +212,10 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Free on [itch.io](https://wompi72.itch.io/vibe-games)
   - WebGL (play in browser)
   - Mini Games (Snake, FappyBird for now) with vibrator support. Connection via [Xtoys](https://xtoys.app/) or [Intiface Central](https://intiface.com/central).
+- [GoatVR](https://www.patreon.com/goatvr)
+  - Paid, available at https://www.patreon.com/goatvr
+  - Windows 10+ only, VR only
+  - Furry focused animation player with selectable characters, scenes and voice actresses.
 
 ## Game Mods
 
@@ -336,6 +340,10 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Free, open source, repo at https://gitlab.com/fentrasLABS/openplanet/haptics
   - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
   - Buttplug integration for Trackmania 2020, Planet, and Turbo
+- [Viral Tremors](https://github.com/bananasov/ViralTremors)
+  - Free, open source, repo at https://github.com/bananasov/ViralTremors
+  - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
+  - Buttplug integration for Content Warning
 
 ### Counter-Strike
 
