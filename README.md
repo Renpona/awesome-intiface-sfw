@@ -21,17 +21,11 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   * [Minecraft](#minecraft)
   * [FFXIV](#ffxiv)
   * [Terraria](#terraria)
-* [Virtual Worlds (General)](#virtual-worlds)
-  * [VRChat](#vrchat)
-  * [ChilloutVR](#chilloutvr)
-* [Hardware Support](#hardware-support)
 * [Development and Libraries](#development-and-libraries)
   * [General Development (Language Libraries)](#general-development)
   * [Game Development](#game-development)
   * [Other Frameworks and Plugins](#other-frameworks-and-plugins)
-* [DIY Hardware Projects](#diy-hardware-projects)
 * [Deprecated Projects](#deprecated-projects)
-* [Friends of Buttplug](#friends-of-buttplug)
 
 ## Community Links
 
@@ -312,17 +306,6 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Free, open source, repo at https://github.com/nih0n/terragasm
   - Cross Platform (requires [Intiface Central](https://intiface.com/central))
   - Intiface integration for Terraria
-
-## Virtual Worlds
-
-- [ButtplugLite](https://github.com/runtime-shady-backroom/buttplug-lite)
-  - Free, open source, repo at https://github.com/runtime-shady-backroom/buttplug-lite
-  - Desktop Cross Platform
-  - Scaled back version of the Intiface Protocol for use with [NeosVR LogiX](https://neosvr.com) & [Resonite ProtoFlux](https://resonite.com/)
-- [Second Life Interface to ToyWebBridge](https://github.com/kyrahabattoir/ToyWebBridge/tree/master/Examples/LSL%20(Second%20Life))
-  - Free, open source, repo at https://github.com/kyrahabattoir/ToyWebBridge
-  - Windows 10+ only (for ToyWebBridge)
-  - LSL Examples for accessing [ToyWebBridge](https://github.com/kyrahabattoir/ToyWebBridge)
 
 ## Development and Libraries
 
