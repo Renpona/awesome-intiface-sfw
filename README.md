@@ -1,8 +1,8 @@
-# 🍑🔌 List of Awesome Buttplug Projects! 🍑🔌
+# 🍑🔌 List of Awesome Intiface Projects! 🍑🔌
 
-This is a list of different projects that use Buttplug in some way!
+This is a list of different projects that use Intiface in some way!
 
-Want to request for a game or app you'd like Buttplug support in? [Reply to this thread on our forum or contact qDot directly!](https://discuss.buttplug.io/t/buttplug-io-apps-games-support-request-list/228) (Instructions for direct contact are in post.)
+Want to request for a game or app you'd like Intiface support in? [Reply to this thread on our forum or contact qDot directly!](https://discuss.buttplug.io/t/buttplug-io-apps-games-support-request-list/228) (Instructions for direct contact are in post.)
 
 Have a finished (or even work in progress but generally working) project you'd like to see on this
 list? [Submit an issue to this repo and let us know!](https://github.com/buttplugio/awesome-buttplug/issues)
@@ -47,8 +47,8 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 
 - [Intiface® Central](http://intiface.com/central)
   - Free, open source, repo at https://github.com/intiface/intiface-central
-  - Hub program for Buttplug. Allows applications to connect to an external Buttplug system, meaning
-    they don't have to update their program every time Buttplug itself updates.
+  - Hub program for Intiface. Allows applications to connect to an external Intiface system, meaning
+    they don't have to update their program every time Intiface itself updates.
 - [Buttplug Playground](https://playground.buttplug.world)
   - Free, open source, repo at https://github.com/intiface/buttplug-playground
   - Web based (Cross platform, either via browsers or [Intiface Central](https://intiface.com/central))
@@ -56,19 +56,19 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [Buttplug Editor](https://github.com/MaidKun/buttplug-editor)
   - Free, open source, repo at https://github.com/MaidKun/buttplug-editor
   - Web based (Cross platform, either via browsers or [Intiface Central](https://intiface.com/central))
-  - Visual programming for building patterns for playback in Buttplug
+  - Visual programming for building patterns for playback in Intiface
 - [ToyWebBridge](https://github.com/kyrahabattoir/ToyWebBridge)
   - Free, open source, repo at https://github.com/kyrahabattoir/ToyWebBridge
   - Windows 10+ only
-  - Generic REST frontend for Buttplug.
+  - Generic REST frontend for Intiface.
 - [ToyControl](https://github.com/jackmg2/ToyControl)
   - Free, open source, repo at https://github.com/jackmg2/ToyControl
   - Web based (Cross platform, via browsers)
-  - Websocket based toy sharing application using Buttplug
+  - Websocket based device sharing application using Intiface
 - [Vibe Sequencer](https://webvrnsfw.github.io/vibe-sequencer/)
   - Free, open source, repo at https://github.com/webvrnsfw/vibe-sequencer
   - Web based (Cross platform, via browsers with [Intiface Central](https://intiface.com/central))
-  - Lets you control your Buttplug sex toys with an interactive sequencer interface.
+  - Lets you control your Intiface devices with an interactive sequencer interface.
 - [Buttplug OSC](https://github.com/AlexanderPavlenko/buttplug-osc)
   - Free, open source, repo at https://github.com/AlexanderPavlenko/buttplug-osc
   - Cross Platform (requires [Intiface Central](https://intiface.com/central))
@@ -80,18 +80,18 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [Plaything.io](https://github.com/Flutterish/plaything.io)
   - Free, open source, repo at https://github.com/Flutterish/plaything.io
   - Cross platform
-  - Node based client/server program for multiplayer remote toy control
+  - Node based client/server program for multiplayer remote device control
 - [WebRTPP](https://github.com/monoredgoblins/WebTRPP)
   - Free, open source, repo at https://github.com/monoredgoblins/WebTRPP
   - Cross platform (web)
 - [Buzzy!](https://buzzyme.vercel.app/)
   - Free, open source, repo at https://github.com/BuzzyMe/buzzy
   - Cross platform (web)
-  - WebRTC P2P based toy sharing and controller application that's installable as a PWA for offline use.
+  - WebRTC P2P based device sharing and controller application that's installable as a PWA for offline use.
 - [Beadi](https://thatbatluna.github.io/Beadi/)
   - Free, open source, repo at https://github.com/ThatBatLuna/Beadi
   - Web based (Cross platform, either via browsers or [Intiface Central](https://intiface.com/central))
-  - Visual node-based editor for programming Buttplug-compatible toys
+  - Visual node-based editor for programming Intiface-compatible devices
 - [PROHE](https://marketplace.visualstudio.com/items?itemName=UncensorPat.prohe)
   - Free, open source, repo at https://github.com/UncensorPat/prohe
   - Cross platform (VS Code, requires [Intiface Central](https://intiface.com/central))
@@ -99,11 +99,11 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [Fediplug](https://github.com/nova-r/fediplug)
   - Free, open source, repo at https://github.com/nova-r/fediplug
   - Cross platform (requires [Intiface Central](https://intiface.com/central))
-  - Python script that reads a fediverse timeline and controls toy based on certain commands in messages received
+  - Python script that reads a fediverse timeline and controls device based on certain commands in messages received
 - [Catplug](https://www.nimmerneko.de/catplug)
   - Free, closed source
   - Web Based (Cross platform, either via browsers or [Intiface Central](https://intiface.com/central))
-  - Simple interface for controlling toys locally or remotely. Plus creation, editing, and playback of custom patterns.
+  - Simple interface for controlling devices locally or remotely. Plus creation, editing, and playback of custom patterns.
 - [Vencord-Buttplugio](https://github.com/KaydaFox/vencord-buttplugio)
   - Free, open source, repo at https://github.com/KaydaFox/vencord-buttplugio
   - Cross platform (requires [Intiface Central](https://intiface.com/central))
@@ -114,12 +114,12 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [MultiFunPlayer](https://github.com/Yoooi0/MultiFunPlayer)
   - Free, open source, repo at https://github.com/Yoooi0/MultiFunPlayer
   - Windows 10+ only
-  - Synchronizes funscripts with OSR-2 or any Buttplug compatible device for multiple video
+  - Synchronizes funscripts with OSR-2 or any Intiface compatible device for multiple video
     players (DeoVR, MPV, HereSphere, Whirligig)
 - [Scriptplayer](https://github.com/FredTungsten/ScriptPlayer)
   - Free, open source, repo at https://github.com/FredTungsten/ScriptPlayer
   - Windows 10+ only
-  - Playback of movies using Funscript format, with support for stroking/vibrating/rotating toys.
+  - Playback of movies using Funscript format, with support for stroking/vibrating/rotating devices.
 - [D-EasyScriptPlayer](https://fantia.jp/products/419895)
   - Commercial (requires subscription to Fantia page)
   - Windows 10+ only, requires Intiface Central
@@ -134,15 +134,15 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [Music Vibes](https://github.com/Shadlock0133/music-vibes)
   - Free, open source, repo at https://github.com/Shadlock0133/music-vibes
   - Windows Only (Music Vibe can run standalone, [Intiface Central](https://intiface.com/central) optional)
-  - Analyzes audio and translates into vibrations for Buttplug compatible hardware.
+  - Analyzes audio and translates into vibrations for Intiface compatible hardware.
 - [Subwoofer](https://github.com/smol-skyz/subwoofer/)
   - Free, open source, repo at https://github.com/smol-skyz/subwoofer/
   - Windows/Linux Only (requires [Intiface Central](https://intiface.com/central))
-  - Analyzes audio and translates into vibrations for Buttplug compatible hardware.
+  - Analyzes audio and translates into vibrations for Intiface compatible hardware.
 - [MusicBoom](https://github.com/NovaGlider/musicboom/)
   - Free, open source, repo at [https://github.com/NovaGlider/musicboom/](https://github.com/NovaGlider/musicboom/)
   - Linux Only (requires [Intiface Central](https://intiface.com/central) and JACK or Pipewire JACK)
-  - Analyzes audio and translates into vibrations for Buttplug compatible hardware with two motors.
+  - Analyzes audio and translates into vibrations for Intiface compatible hardware with two motors.
 - [Buttplug VST](https://github.com/fractalysis/buttplug-vst)
   - Free, open source, repo at https://github.com/fractalysis/buttplug-vst
   - Windows Only (requires [Intiface Central](https://intiface.com/central))
@@ -151,30 +151,30 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [Buttplug for Live](https://maxforlive.com/library/device.php?id=9190)
   - Free, open source, repo at https://github.com/Vurich/Buttplug-for-Live
   - Any platform supported by Ableton and Max (officially, Windows and macOS)
-  - Allows Max for Live devices to control Buttplug-compatible hardware, opening up many possibilities for automatic vibration control
+  - Allows Max for Live devices to control Intiface-compatible hardware, opening up many possibilities for automatic vibration control
 
 ## Game Mods
 
 - [Intiface® Game Haptics Router](https://intiface.com/ghr)
   - Free, open source, repo at https://github.com/intiface/intiface-game-haptics-router
   - Windows 10+ only (Standalone or via [Intiface Central](https://intiface.com/central))
-  - Hooks to Windows PC Games, rerouting gamepad rumble to control sex toys.
+  - Hooks to Windows PC Games, rerouting gamepad rumble to control devices.
 - [BPGE (ButtPlug Game Events)](https://github.com/allanf181/BPGE)
   - Free, source avaliable, repo at https://github.com/allanf181/BPGE
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central) and [HomeAssistant Game Events](https://www.overwolf.com/app/BinaryBurger-HomeAssistant_Game_Events))
-  - Buttplug integration for Apex Legends, CS2, Dota 2, Fortnite, Halo Infinite, League of Legends, Overwatch 2, PUBG, Rainbow Six Siege, Valorant and more, triggers toys on various game events, full customizable, more info and instructions at the repo.
+  - Intiface integration for Apex Legends, CS2, Dota 2, Fortnite, Halo Infinite, League of Legends, Overwatch 2, PUBG, Rainbow Six Siege, Valorant and more, triggers devices on various game events, full customizable, more info and instructions at the repo.
 - [Buttplug Valley](https://github.com/DryIcedTea/Buttplug-Valley)
   - Free, open source, repo at https://github.com/DryIcedTea/Buttplug-Valley
   - Windows 10+ only (via [Intiface Central](https://intiface.com/central))
-  - Mod for [Stardew Valley](https://www.stardewvalley.net/), triggers toys on various game events (farming, fishing, etc...)
+  - Mod for [Stardew Valley](https://www.stardewvalley.net/), triggers devices on various game events (farming, fishing, etc...)
 - [UKButt Ultrakill Mod](https://github.com/PITR-DEV/ukbutt-mod)
   - Free, open source, repo at https://github.com/PITR-DEV/ukbutt-mod
   - Windows 10+, Steam Deck if You're Brave (via [Intiface Central](https://intiface.com/central))
-  - Mod for [Ultrakill](https://store.steampowered.com/app/1229490/ULTRAKILL/), triggers toys on various game events or rank
+  - Mod for [Ultrakill](https://store.steampowered.com/app/1229490/ULTRAKILL/), triggers devices on various game events or rank
 - [B.U.T.T.P.L.U.G. Anomaly](https://github.com/abbiwyn/buttplug-anomaly)
   - Free, open source, repo at https://github.com/abbiwyn/buttplug-anomaly
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
-  - Buttplug mod for STALKER: Anomaly
+  - Intiface mod for STALKER: Anomaly
 - [Skybutt Skyrim Plugin](https://github.com/programotter/skybutt)
   - Free, open source, repo at https://github.com/programotter/skybutt
   - Windows 10+ only
@@ -182,71 +182,71 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [Buttplug Of Legends Unity (League of Legends)](https://github.com/Furimanejo/Buttplug-Of-Legends-Unity)
   - Free, open source, repo at https://github.com/Furimanejo/Buttplug-Of-Legends-Unity
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
-  - League of Legends interaction for Buttplug
+  - League of Legends interaction for Intiface
 - [DGButtPlugin (Duck Game)](https://github.com/BytewaveMLP/DGButtPlugin)
   - Free, open source, repo at https://github.com/BytewaveMLP/DGButtPlugin
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
-  - [Duck Game](https://store.steampowered.com/app/312530/Duck_Game/) Buttplug plugin
+  - [Duck Game](https://store.steampowered.com/app/312530/Duck_Game/) Intiface plugin
 - [LLM_Buttplug](https://github.com/PsychoSmiley/LLM_Buttplug/)
   - Free, open source, repo at [https://github.com/PsychoSmiley/LLM_Buttplug/](https://github.com/PsychoSmiley/LLM_Buttplug/)
   - Cross Platform Extension for oobabooga/text-generation-webui, (requires [Intiface Central](https://intiface.com/central))
-  - Let LLMs Control Sex Toy.
+  - Let LLMs Control device.
 - [ButtFish](https://github.com/RonSijm/ButtFish)
   - Free, open source, repo at https://github.com/RonSijm/ButtFish
   - Windows 10+ only
-  - Buttplug integration with the Stockfish chess engine, for relaying moves with morse code to
-    vibrating toys.
+  - Intiface integration with the Stockfish chess engine, for relaying moves with morse code to
+    vibrating devices.
 - [Game Interface For Toys (Skyrim and Fallout 4)](https://github.com/MinLL/GameInterfaceForToys)
   - Free, open source, repo at https://github.com/MinLL/GameInterfaceForToys
   - Windows 10+ only
-  - Buttplug integration for Skyrim and Fallout 4
+  - Intiface integration for Skyrim and Fallout 4
 - [Lethal Vibrations (Lethal Company)](https://thunderstore.io/c/lethal-company/p/LethalPlugging/LethalVibrations/)
   - Free, open source, repo at https://github.com/bananasov/LethalVibrations
   - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
-  - Buttplug integration for Lethal Company
+  - Intiface integration for Lethal Company
 - [Cult of the Buttplug (Cult of the Lamb)](https://cult-of-the-lamb.thunderstore.io/package/nonpolynomial/CultOfTheButtplug/)
   - Free, open source, repo at https://github.com/qdot/CultOftheButtplug
   - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
-  - Buttplug integration for Cult of the Lamb
+  - Intiface integration for Cult of the Lamb
 - [Team Frotress 2 (Team Fortress 2)](https://github.com/fionafibration/team-frotress-2/)
   - Free, open source, repo at https://github.com/fionafibration/team-frotress-2/
   - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
-  - Buttplug integration for Team Fortress 2
+  - Intiface integration for Team Fortress 2
 - [Buttplug Knight (Hollow Knight)](https://github.com/danatron1/ButtplugKnight)
   - Free, open source, repo at https://github.com/danatron1/ButtplugKnight
   - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
-  - Buttplug integration for Hollow Knight
+  - Intiface integration for Hollow Knight
 - [Geometry Plug](https://github.com/Zelfmonco/Geometry-Plug)
   - Free, open source, repo at https://github.com/Zelfmonco/Geometry-Plug
   - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
-  - Buttplug integration for Geometry Dash
+  - Intiface integration for Geometry Dash
 - [Butt Saber](https://github.com/jackmg2/ButtSaber)
   - Free, open source, repo at https://github.com/jackmg2/ButtSaber
   - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
-  - Buttplug integration for Beat Saber
+  - Intiface integration for Beat Saber
 - [CuButt](https://mods.factorio.com/mod/cubutt)
   - Free, open source, repo at https://github.com/ashkitten/factorio-cubutt
   - Linux only, requires [Intiface Central](https://intiface.com/central)
-  - Buttplug integration for Factorio Ultracube mod
+  - Intiface integration for Factorio Ultracube mod
 - [HentaiPlay (DeppartPrototype)](https://github.com/Ljzd-PRO/DeppartPrototypeHentaiPlayMod)
   - Free, open source, repo at https://github.com/Ljzd-PRO/DeppartPrototypeHentaiPlayMod
   - Windows 10+ only, requires [Intiface Central](https://intiface.com/central) and [Melonloader](https://github.com/LavaGang/MelonLoader/releases)
-  - Buttplug integration for DeppartPrototype mod, vibrate when gun shot, battling, and some situation.
+  - Intiface integration for DeppartPrototype mod, vibrate when gun shot, battling, and some situation.
 - [OpenPlanet Haptics](https://gitlab.com/fentrasLABS/openplanet/haptics)
   - Free, open source, repo at https://gitlab.com/fentrasLABS/openplanet/haptics
   - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
-  - Buttplug integration for Trackmania 2020, Planet, and Turbo
+  - Intiface integration for Trackmania 2020, Planet, and Turbo
 - [Viral Tremors](https://github.com/bananasov/ViralTremors)
   - Free, open source, repo at https://github.com/bananasov/ViralTremors
   - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
-  - Buttplug integration for Content Warning
+  - Intiface integration for Content Warning
 
 ### Counter-Strike
 
 - [Crotch-Stim: Get Off (CS:GO)](https://sr.ht/~hornycactus/CrotchStimGetOff/)
   - Free, open source, repo at https://sr.ht/~hornycactus/CrotchStimGetOff/
   - Desktop Cross Platform
-  - CS:GO Buttplug plugin
+  - CS:GO Intiface plugin
 - [cs2-buttplug (Counter-Strike 2)](https://github.com/gloss-click/cs2-buttplug)
   - Fork of Crotch-Stim: Get Off with a GUI and support for Counter-Strike 2
   - Cross Platform (requires [Intiface Central](https://intiface.com/central))
@@ -257,12 +257,12 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [Underwatch Ultimate (Overwatch 2)](https://github.com/Furimanejo/Underwatch-Ultimate)
   - Free, open source, repo at https://github.com/Furimanejo/Underwatch-Ultimate
   - Cross Platform (requires [Intiface Central](https://intiface.com/central))
-  - Uses computer vision to trigger toys based on Kills, Assists, and Saves.
+  - Uses computer vision to trigger devices based on Kills, Assists, and Saves.
 - [OverStim (Overwatch 2)](https://github.com/cryo-es/OverStim)
   - Free, open source, repo at https://github.com/cryo-es/OverStim
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
   - Linux support MAY be offered through their [Discord](https://discord.com/invite/AVpcVhQQhu).
-  - Uses computer vision to trigger toys with a focus on Healing characters.
+  - Uses computer vision to trigger devices with a focus on Healing characters.
 
 ### Risk of Rain 2
 
@@ -284,7 +284,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [Minegasm (Minecraft)](https://minegasm.therainbowville.com/)
   - Free, open source, repo at https://github.com/RainbowVille/minegasm
   - Cross Platform (requires [Intiface Central](https://intiface.com/central))
-  - Sex toy control plugin for Minecraft Forge
+  - device control plugin for Minecraft Forge
   - [Ported to Fabric](https://github.com/vinceh121/Minegasm-fabric)
 - [mInetiface (Minecraft)](https://github.com/Fyustorm/mInetiface)
   - Another Minecraft Fabric mod with reward score system, ingame configuration and multiple devices
@@ -297,7 +297,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [FFXIV Vibe Plugin](https://github.com/kaciexx/FFXIV_Vibe_Plugin)
   - Closed source, free, requires paid subscription for some features
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
-  - FFXIV triggers for sex toy control, via [Dalamud](https://github.com/goatcorp/Dalamud)
+  - FFXIV triggers for device control, via [Dalamud](https://github.com/goatcorp/Dalamud)
 - [AetherSense Redux (Beta)](https://github.com/digital-pet/AetherSenseRedux)
   - Free, open source, repo at https://github.com/digital-pet/AetherSenseRedux
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
@@ -311,14 +311,14 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [Terragasm](https://github.com/nih0n/terragasm)
   - Free, open source, repo at https://github.com/nih0n/terragasm
   - Cross Platform (requires [Intiface Central](https://intiface.com/central))
-  - Buttplug integration for Terraria
+  - Intiface integration for Terraria
 
 ## Virtual Worlds
 
 - [ButtplugLite](https://github.com/runtime-shady-backroom/buttplug-lite)
   - Free, open source, repo at https://github.com/runtime-shady-backroom/buttplug-lite
   - Desktop Cross Platform
-  - Scaled back version of the Buttplug Protocol for use with [NeosVR LogiX](https://neosvr.com) & [Resonite ProtoFlux](https://resonite.com/)
+  - Scaled back version of the Intiface Protocol for use with [NeosVR LogiX](https://neosvr.com) & [Resonite ProtoFlux](https://resonite.com/)
 - [Second Life Interface to ToyWebBridge](https://github.com/kyrahabattoir/ToyWebBridge/tree/master/Examples/LSL%20(Second%20Life))
   - Free, open source, repo at https://github.com/kyrahabattoir/ToyWebBridge
   - Windows 10+ only (for ToyWebBridge)
@@ -440,7 +440,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Buttplug JS/WASM integration with React
 - [Buttplug Tampermonkey](https://github.com/buttplugio/buttplug-tampermonkey)
   - Integration of Buttplug with the [Tampermonkey](https://www.tampermonkey.net/) user scripting
-    system for Web Browsers. Allows integration of sex toys with arbitrary webpages.
+    system for Web Browsers. Allows integration of devices with arbitrary webpages.
 
 ## DIY Hardware Projects
 
@@ -454,7 +454,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 
 - [In Heat Overwatch Mod](https://github.com/Furimanejo/In-Heat)
   - Free, open source, repo at https://github.com/Furimanejo/In-Heat
-  - Uses computer vision to track Heat Bar in Overwatch and control sex toys based on levels.
+  - Uses computer vision to track Heat Bar in Overwatch and control devices based on levels.
   - Deprecation Reason: Overwatch servers shut down in late 2022. Dev has a new version for Overwatch 2, [Underwatch](https://github.com/Furimanejo/Underwatch).
 - [Healing Is Fun Overwatch Plugin](https://github.com/Sir-Prise/healsluts)
   - Free, open source, repo at https://github.com/Sir-Prise/healsluts
@@ -463,17 +463,17 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [Aethersense (FFXIV)](https://github.com/Ms-Tress/AetherSense)
   - Free, open source, repo at https://github.com/Ms-Tress/AetherSense
   - Windows 10+ only (Standalone)
-  - FFXIV triggers for sex toy control, via [Dalamud](https://github.com/goatcorp/Dalamud)
+  - FFXIV triggers for device control, via [Dalamud](https://github.com/goatcorp/Dalamud)
   - Deprecation Reason: Dev moved on
 - [Plug Parser (FFXIV)](https://github.com/cyan-f/Plug_Parser)
   - Free, open source, repo at https://github.com/cyan-f/Plug_Parser
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
-  - FFXIV triggers for sex toy control, via [ACT](https://advancedcombattracker.com/)
+  - FFXIV triggers for device control, via [ACT](https://advancedcombattracker.com/)
   - Deprecation Reason: Dev moved on
 - [ButtPlACT (FFXIV)](https://github.com/crnlskn/ButtplACT)
   - Free, open source, repo at https://github.com/crnlskn/ButtplACT
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
-  - FFXIV triggers for sex toy control, via [ACT](https://advancedcombattracker.com/)
+  - FFXIV triggers for device control, via [ACT](https://advancedcombattracker.com/)
   - Deprecation Reason: Dev moved on
 - [Syncydink](https://syncydink.buttplug.world)
   - Free, open source, repo at https://github.com/qdot/syncydink
@@ -503,16 +503,16 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [SoundSync](https://gitlab.com/LuckySkebe/soundsync)
   - Free, open source, repo at https://gitlab.com/LuckySkebe/soundsync
   - Windows 10+ only
-  - Visual dataflow setup for routing audio signals to sex toy control
+  - Visual dataflow setup for routing audio signals to device control
   - Deprecation Reason: Project Abandoned
 - [Sensitive EQ](https://github.com/highfiiv/sensitive-eq)
   - Free, open source, repo at https://github.com/highfiiv/sensitive-eq
   - Web based (Cross platform via browsers)
-  - WebAudio equalizer to sex toy control utility
+  - WebAudio equalizer to device control utility
   - Deprecation Reason: Project Abandoned
 - [OsuToy](https://github.com/hornyyy/Osu-Toy)
   - Free, open source, repo at https://github.com/hornyyy/Osu-Toy
   - Windows 10+ only
-  - Fork of the [Osu rhythm game](https://osu.ppy.sh/home) with toy control capabilities via
+  - Fork of the [Osu rhythm game](https://osu.ppy.sh/home) with device control capabilities via
     Buttplug.
   - Deprecation Reason: Project abandoned, and requires an extremely old fork of Osu. Needs an update.
