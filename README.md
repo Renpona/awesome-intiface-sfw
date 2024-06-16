@@ -253,10 +253,6 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Free, open source, repo at https://github.com/programotter/skybutt
   - Windows 10+ only
   - Vibration control plugin for Skyrim
-- [Buttplug Of Legends Unity (League of Legends)](https://github.com/Furimanejo/Buttplug-Of-Legends-Unity)
-  - Free, open source, repo at https://github.com/Furimanejo/Buttplug-Of-Legends-Unity
-  - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
-  - League of Legends interaction for Buttplug
 - [DGButtPlugin (Duck Game)](https://github.com/BytewaveMLP/DGButtPlugin)
   - Free, open source, repo at https://github.com/BytewaveMLP/DGButtPlugin
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
@@ -362,10 +358,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 
 ### Overwatch 2
 
-- [Underwatch Ultimate (Overwatch 2)](https://github.com/Furimanejo/Underwatch-Ultimate)
-  - Free, open source, repo at https://github.com/Furimanejo/Underwatch-Ultimate
-  - Cross Platform (requires [Intiface Central](https://intiface.com/central))
-  - Uses computer vision to trigger toys based on Kills, Assists, and Saves.
+
 - [OverStim (Overwatch 2)](https://github.com/cryo-es/OverStim)
   - Free, open source, repo at https://github.com/cryo-es/OverStim
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
@@ -611,6 +604,11 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Free, open source, repo at https://github.com/Furimanejo/In-Heat
   - Uses computer vision to track Heat Bar in Overwatch and control sex toys based on levels.
   - Deprecation Reason: Overwatch servers shut down in late 2022. Dev has a new version for Overwatch 2, [Underwatch](https://github.com/Furimanejo/Underwatch).
+- [Underwatch Ultimate (Overwatch 2)](https://github.com/Furimanejo/Underwatch-Ultimate)
+  - Free, open source, repo at https://github.com/Furimanejo/Underwatch-Ultimate
+  - Cross Platform (requires [Intiface Central](https://intiface.com/central))
+  - Uses computer vision to trigger toys based on Kills, Assists, and Saves.
+  - Deprecation Reason: moved to [Playful Plugins](https://furimanejo.itch.io/playful-plugins)
 - [Healing Is Fun Overwatch Plugin](https://github.com/Sir-Prise/healsluts)
   - Free, open source, repo at https://github.com/Sir-Prise/healsluts
   - Web based system for Overwatch interaction
@@ -656,6 +654,11 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
   - League of Legends interaction for Buttplug
   - Deprecation Reason: Dev moved on, succeded by [Buttplug Of Legends Unity](https://github.com/Furimanejo/Buttplug-Of-Legends-Unity)
+- [Buttplug Of Legends Unity (League of Legends)](https://github.com/Furimanejo/Buttplug-Of-Legends-Unity)
+  - Free, open source, repo at https://github.com/Furimanejo/Buttplug-Of-Legends-Unity
+  - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
+  - League of Legends interaction for Buttplug
+  - Deprecation Reason: moved to [Playful Plugins](https://furimanejo.itch.io/playful-plugins)
 - [Risk of Rumble](https://github.com/mistername/RiskOfRainModding/tree/master/RiskOfRumble)
   - Free, open source, repo at
     https://github.com/mistername/RiskOfRainModding/tree/master/RiskOfRumble ([Thunderstore
