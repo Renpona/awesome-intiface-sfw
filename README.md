@@ -152,7 +152,11 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [Intiface® Game Haptics Router](https://intiface.com/ghr)
   - Free, open source, repo at https://github.com/intiface/intiface-game-haptics-router
   - Windows 10+ only (Standalone or via [Intiface Central](https://intiface.com/central))
-  - Hooks to Windows PC Games, rerouting gamepad rumble to control devices.
+  - Hooks to Windows PC Games, rerouting gamepad rumble to control sex toys.
+- [Playful Plugins](https://furimanejo.itch.io/playful-plugins)
+  - Free, closed source
+  - Windows only, requires [Intiface Central](https://intiface.com/central)
+  - Integration for Overwatch 2, League of Legends, Elden Ring, Helldivers 2, Peggle Deluxe, Kinky Dungeon, Ero Dungeons, PowerWash Simulator. More information at https://github.com/Furimanejo/playful-plugins-readme
 - [BPGE (ButtPlug Game Events)](https://github.com/allanf181/BPGE)
   - Free, source avaliable, repo at https://github.com/allanf181/BPGE
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central) and [HomeAssistant Game Events](https://www.overwolf.com/app/BinaryBurger-HomeAssistant_Game_Events))
@@ -173,10 +177,6 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Free, open source, repo at https://github.com/programotter/skybutt
   - Windows 10+ only
   - Vibration control plugin for Skyrim
-- [Buttplug Of Legends Unity (League of Legends)](https://github.com/Furimanejo/Buttplug-Of-Legends-Unity)
-  - Free, open source, repo at https://github.com/Furimanejo/Buttplug-Of-Legends-Unity
-  - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
-  - League of Legends interaction for Intiface
 - [DGButtPlugin (Duck Game)](https://github.com/BytewaveMLP/DGButtPlugin)
   - Free, open source, repo at https://github.com/BytewaveMLP/DGButtPlugin
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
@@ -248,15 +248,11 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 
 ### Overwatch 2
 
-- [Underwatch Ultimate (Overwatch 2)](https://github.com/Furimanejo/Underwatch-Ultimate)
-  - Free, open source, repo at https://github.com/Furimanejo/Underwatch-Ultimate
-  - Cross Platform (requires [Intiface Central](https://intiface.com/central))
-  - Uses computer vision to trigger devices based on Kills, Assists, and Saves.
 - [OverStim (Overwatch 2)](https://github.com/cryo-es/OverStim)
   - Free, open source, repo at https://github.com/cryo-es/OverStim
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
-  - Linux support MAY be offered through their [Discord](https://discord.com/invite/AVpcVhQQhu).
-  - Uses computer vision to trigger devices with a focus on Healing characters.
+  - Support offered through their [Discord](https://discord.com/invite/AVpcVhQQhu)
+  - Uses computer vision to trigger toys. Compatible with all heroes and has some hero-specific features.
 
 ### Risk of Rain 2
 
@@ -439,6 +435,11 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Free, open source, repo at https://github.com/Furimanejo/In-Heat
   - Uses computer vision to track Heat Bar in Overwatch and control devices based on levels.
   - Deprecation Reason: Overwatch servers shut down in late 2022. Dev has a new version for Overwatch 2, [Underwatch](https://github.com/Furimanejo/Underwatch).
+- [Underwatch Ultimate (Overwatch 2)](https://github.com/Furimanejo/Underwatch-Ultimate)
+  - Free, open source, repo at https://github.com/Furimanejo/Underwatch-Ultimate
+  - Cross Platform (requires [Intiface Central](https://intiface.com/central))
+  - Uses computer vision to trigger toys based on Kills, Assists, and Saves.
+  - Deprecation Reason: moved to [Playful Plugins](https://furimanejo.itch.io/playful-plugins)
 - [Healing Is Fun Overwatch Plugin](https://github.com/Sir-Prise/healsluts)
   - Free, open source, repo at https://github.com/Sir-Prise/healsluts
   - Web based system for Overwatch interaction
@@ -475,6 +476,11 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
   - League of Legends interaction for Buttplug
   - Deprecation Reason: Dev moved on, succeded by [Buttplug Of Legends Unity](https://github.com/Furimanejo/Buttplug-Of-Legends-Unity)
+- [Buttplug Of Legends Unity (League of Legends)](https://github.com/Furimanejo/Buttplug-Of-Legends-Unity)
+  - Free, open source, repo at https://github.com/Furimanejo/Buttplug-Of-Legends-Unity
+  - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
+  - League of Legends interaction for Buttplug
+  - Deprecation Reason: moved to [Playful Plugins](https://furimanejo.itch.io/playful-plugins)
 - [Risk of Rumble](https://github.com/mistername/RiskOfRainModding/tree/master/RiskOfRumble)
   - Free, open source, repo at
     https://github.com/mistername/RiskOfRainModding/tree/master/RiskOfRumble ([Thunderstore
